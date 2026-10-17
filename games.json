@@ -1,0 +1,72 @@
+{
+ "_about": "손맛 햅틱 게임 목록. 앱이 처음 읽는 파일: 게임마다 레포 주소와 버전. 새 게임 = 한 줄 추가(PR).",
+ "schema": 1,
+ "games": [
+  {
+   "id": "dino",
+   "name": "Cadillacs and Dinosaurs",
+   "name_ko": "캐딜락 & 다이노소어",
+   "exe": "mame.exe",
+   "engine": "mame",
+   "roms": [
+    "dino"
+   ],
+   "repo": "https://github.com/ErikKim/sonmat-game-dino",
+   "version": "0.1.0",
+   "commit": "c1f54a069d7b1f7d3379971fdea9c535281d9673"
+  },
+  {
+   "id": "ffight",
+   "name": "Final Fight",
+   "name_ko": "파이널 파이트",
+   "exe": "mame.exe",
+   "engine": "mame",
+   "roms": [
+    "ffight"
+   ],
+   "repo": "https://github.com/ErikKim/sonmat-game-ffight",
+   "version": "0.1.0",
+   "commit": "f0c8a2327c363bad28046e83dd019cd81fc06a4a"
+  },
+  {
+   "id": "liesofp",
+   "name": "Lies of P",
+   "name_ko": "P의 거짓",
+   "exe": "LOP-Win64-Shipping.exe",
+   "engine": "ue4",
+   "repo": "https://github.com/ErikKim/sonmat-game-liesofp",
+   "version": "0.1.0",
+   "commit": "2c442778dbce989889c168bff7575afd8a4f3e87"
+  },
+  {
+   "id": "nier",
+   "name": "NieR:Automata",
+   "name_ko": "니어 오토마타",
+   "exe": "NieRAutomata.exe",
+   "engine": "wwise",
+   "repo": "https://github.com/ErikKim/sonmat-game-nier",
+   "version": "0.1.0",
+   "commit": "490604331c3419019c52754ccd81ca4bdb19aa30"
+  },
+  {
+   "id": "sekiro",
+   "name": "Sekiro: Shadows Die Twice",
+   "name_ko": "세키로",
+   "exe": "sekiro.exe",
+   "engine": "ue4",
+   "repo": "https://github.com/ErikKim/sonmat-game-sekiro",
+   "version": "0.1.0",
+   "commit": "e39cf236bdceb21aa87043e625d822385d082b87"
+  },
+  {
+   "id": "wukong",
+   "name": "Black Myth: Wukong",
+   "name_ko": "검은신화 오공",
+   "exe": "b1-Win64-Shipping.exe",
+   "engine": "wwise",
+   "repo": "https://github.com/ErikKim/sonmat-game-wukong",
+   "version": "0.1.0",
+   "commit": "b019658b0fcbd5d58d4958b5cc9c304bf46985d7"
+  }
+ ]
+}
