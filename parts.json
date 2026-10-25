@@ -1,0 +1,70 @@
+{
+ "_about": "손맛 햅틱 부품 목록: 우리가 빌드하는 도구(로더·훅 DLL·crilayla·유니티 플러그인). 도구마다 레포 하나, 릴리스 zip 주소와 sha256. 앱이 게임에 필요할 때 받는다(sonmat tools/partfetch.py). 새 엔진 = 새 레포 + 한 줄.",
+ "schema": 1,
+ "parts": {
+  "loader": {
+   "repo": "https://github.com/ErikKim/sonmat-loader",
+   "version": "1.0.0",
+   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.0.0/sonmat-loader-1.0.0.zip",
+   "sha256": "d62c8392e914672485b03d58ca9c9037e442c63f65a7441fd8730c66c55122c2",
+   "files": [
+    "dshaptics_loader.dll",
+    "dshaptics_loader_dinput8.dll"
+   ]
+  },
+  "hook-wwise": {
+   "repo": "https://github.com/ErikKim/sonmat-hook-wwise",
+   "version": "1.0.1",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.1/sonmat-hook-wwise-1.0.1.zip",
+   "sha256": "cb04d37f163a9ab503f894998746c0ba553b4a3cb7f33db44d536d7a34b3760e",
+   "files": [
+    "dshaptics_wwise.dll"
+   ]
+  },
+  "hook-wwise-wide": {
+   "repo": "https://github.com/ErikKim/sonmat-hook-wwise-wide",
+   "version": "1.0.1",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.1/sonmat-hook-wwise-wide-1.0.1.zip",
+   "sha256": "209ed84d61631841c99fe062f27e33f742adcdc215c7c2a9bd26924f7f84baf0",
+   "files": [
+    "dshaptics_wwise_wide.dll"
+   ]
+  },
+  "hook-ue4": {
+   "repo": "https://github.com/ErikKim/sonmat-hook-ue4",
+   "version": "1.0.1",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.1/sonmat-hook-ue4-1.0.1.zip",
+   "sha256": "d96417bd69e51707c1fc75f3b00cdd2e9848191766f0e91a68dc786ae252d01c",
+   "files": [
+    "dshaptics_ue4.dll"
+   ]
+  },
+  "hook-fmodex": {
+   "repo": "https://github.com/ErikKim/sonmat-hook-fmodex",
+   "version": "1.0.1",
+   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.1/sonmat-hook-fmodex-1.0.1.zip",
+   "sha256": "84cba45cc2684e3ec6d288c7a1b3fdfc58914ddfba390914801f130451a4be03",
+   "files": [
+    "dshaptics_fmodex.dll"
+   ]
+  },
+  "crilayla": {
+   "repo": "https://github.com/ErikKim/sonmat-crilayla",
+   "version": "1.0.0",
+   "url": "https://github.com/ErikKim/sonmat-crilayla/releases/download/v1.0.0/sonmat-crilayla-1.0.0.zip",
+   "sha256": "db4173a16acfa35289ba3b1a9b59a71c77733188f00778c6913cc2963763d2b5",
+   "files": [
+    "crilayla.dll"
+   ]
+  },
+  "unity": {
+   "repo": "https://github.com/ErikKim/sonmat-unity",
+   "version": "1.0.0",
+   "url": "https://github.com/ErikKim/sonmat-unity/releases/download/v1.0.0/sonmat-unity-1.0.0.zip",
+   "sha256": "6e7159f04fb0e4e82072373f948ee5451f83b86c453f983e36bfac6a0316d372",
+   "files": [
+    "SonmatUnity.dll"
+   ]
+  }
+ }
+}
