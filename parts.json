@@ -4,12 +4,13 @@
  "parts": {
   "loader": {
    "repo": "https://github.com/ErikKim/sonmat-loader",
-   "version": "1.0.0",
-   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.0.0/sonmat-loader-1.0.0.zip",
-   "sha256": "d62c8392e914672485b03d58ca9c9037e442c63f65a7441fd8730c66c55122c2",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.1.0/sonmat-loader-1.1.0.zip",
+   "sha256": "3db923a7464060af6e600be448e525046222021227b5f259348b4013c0e5a5f5",
    "files": [
     "dshaptics_loader.dll",
-    "dshaptics_loader_dinput8.dll"
+    "dshaptics_loader_dinput8.dll",
+    "dshaptics_loader_x86.dll"
    ]
   },
   "hook-wwise": {
@@ -48,6 +49,15 @@
     "dshaptics_fmodex.dll"
    ]
   },
+  "hook-ue3": {
+   "repo": "https://github.com/ErikKim/sonmat-hook-ue3",
+   "version": "1.0.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.0/sonmat-hook-ue3-1.0.0.zip",
+   "sha256": "e685c3877f0c4f8e2de591559043ae9db15de2b891c75d18fbe82478d7dfc944",
+   "files": [
+    "dshaptics_ue3_x86.dll"
+   ]
+  },
   "crilayla": {
    "repo": "https://github.com/ErikKim/sonmat-crilayla",
    "version": "1.0.0",
@@ -55,6 +65,15 @@
    "sha256": "db4173a16acfa35289ba3b1a9b59a71c77733188f00778c6913cc2963763d2b5",
    "files": [
     "crilayla.dll"
+   ]
+  },
+  "lzo1x": {
+   "repo": "https://github.com/ErikKim/sonmat-lzo1x",
+   "version": "1.0.0",
+   "url": "https://github.com/ErikKim/sonmat-lzo1x/releases/download/v1.0.0/sonmat-lzo1x-1.0.0.zip",
+   "sha256": "435358b6e933d6473d9931be458935458e6763423d04d8e7d0db96e66235a0b2",
+   "files": [
+    "lzo1x.dll"
    ]
   },
   "unity": {

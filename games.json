@@ -3,6 +3,16 @@
  "schema": 1,
  "games": [
   {
+   "id": "asylum",
+   "name": "Batman: Arkham Asylum GOTY",
+   "name_ko": "배트맨: 아캄 어사일럼",
+   "exe": "ShippingPC-BmGame.exe",
+   "engine": "ue3",
+   "repo": "https://github.com/ErikKim/sonmat-game-asylum",
+   "version": "0.1.0",
+   "commit": "e0d9e5b31d4e2502f1e52c21ce9ade3ac2c7f034"
+  },
+  {
    "id": "dino",
    "name": "Cadillacs and Dinosaurs",
    "name_ko": "캐딜락 & 다이노소어",
