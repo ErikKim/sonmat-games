@@ -42,9 +42,9 @@
   },
   "hook-fmodex": {
    "repo": "https://github.com/ErikKim/sonmat-hook-fmodex",
-   "version": "1.0.1",
-   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.1/sonmat-hook-fmodex-1.0.1.zip",
-   "sha256": "84cba45cc2684e3ec6d288c7a1b3fdfc58914ddfba390914801f130451a4be03",
+   "version": "1.0.2",
+   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.2/sonmat-hook-fmodex-1.0.2.zip",
+   "sha256": "ad98f748390c23fcd7dbab8a1193946a25ae125c80a620026b9bc29d66bedff6",
    "files": [
     "dshaptics_fmodex.dll"
    ]
