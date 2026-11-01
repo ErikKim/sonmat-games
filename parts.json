@@ -4,56 +4,58 @@
  "parts": {
   "loader": {
    "repo": "https://github.com/ErikKim/sonmat-loader",
-   "version": "1.1.0",
-   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.1.0/sonmat-loader-1.1.0.zip",
-   "sha256": "3db923a7464060af6e600be448e525046222021227b5f259348b4013c0e5a5f5",
+   "version": "1.2.0",
+   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.2.0/sonmat-loader-1.2.0.zip",
+   "sha256": "e3769de9e6b60d67e05d22879f21363c53093476d9b6df243df8d1db32abf736",
    "files": [
     "dshaptics_loader.dll",
     "dshaptics_loader_dinput8.dll",
-    "dshaptics_loader_x86.dll"
+    "dshaptics_loader_x86.dll",
+    "sonmat_rumble.dll",
+    "sonmat_rumble_x86.dll"
    ]
   },
   "hook-wwise": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise",
-   "version": "1.0.4",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.4/sonmat-hook-wwise-1.0.4.zip",
-   "sha256": "7f1f5402d7d0e0497aac16ba7e6a8f5e1f6504e6791ba288f048ba1cd1b0fca9",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.1.0/sonmat-hook-wwise-1.1.0.zip",
+   "sha256": "301574aee153fe5507c33e8ef2907990eb95164c8f17a2b3605654aa912e0f6d",
    "files": [
     "dshaptics_wwise.dll"
    ]
   },
   "hook-wwise-wide": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise-wide",
-   "version": "1.0.4",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.4/sonmat-hook-wwise-wide-1.0.4.zip",
-   "sha256": "bd5bdfa9bbf56587b702fb8b596e78cd3967c4aba12cdc82014f3628c8631374",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.1.0/sonmat-hook-wwise-wide-1.1.0.zip",
+   "sha256": "d520e3e7fd804b0aaf926d3cd5edb462048f8dff04d96261f71bd76058b6d0bb",
    "files": [
     "dshaptics_wwise_wide.dll"
    ]
   },
   "hook-ue4": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue4",
-   "version": "1.0.4",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.4/sonmat-hook-ue4-1.0.4.zip",
-   "sha256": "a045f81f1599555d140185e4ea20bf03e937750d235bfaa26ac87e9bac794d1c",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.1.0/sonmat-hook-ue4-1.1.0.zip",
+   "sha256": "d5763854ec01b5565e85af7444edb2b23da43c67bce80950e10a33ebdc0573a7",
    "files": [
     "dshaptics_ue4.dll"
    ]
   },
   "hook-fmodex": {
    "repo": "https://github.com/ErikKim/sonmat-hook-fmodex",
-   "version": "1.0.3",
-   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.3/sonmat-hook-fmodex-1.0.3.zip",
-   "sha256": "7685a983e211eebbb7d59e6071819dbe5047e89a6a8e05e82d789f718d4447a6",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.1.0/sonmat-hook-fmodex-1.1.0.zip",
+   "sha256": "0647835b31f75d1cecdfa051577b6aeb0ba90285b0b8559fd493b664d02f922c",
    "files": [
     "dshaptics_fmodex.dll"
    ]
   },
   "hook-ue3": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue3",
-   "version": "1.0.3",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.3/sonmat-hook-ue3-1.0.3.zip",
-   "sha256": "37af6a821140e75dc47d2075dc431caccd17babd0d8d21393c5d5230780a2e49",
+   "version": "1.1.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.1.0/sonmat-hook-ue3-1.1.0.zip",
+   "sha256": "8552addb16fa78b2a34684c4081a8da46a271738a1ab90b1e80529b29d06b531",
    "files": [
     "dshaptics_ue3_x86.dll"
    ]
@@ -78,9 +80,9 @@
   },
   "unity": {
    "repo": "https://github.com/ErikKim/sonmat-unity",
-   "version": "1.1.0",
-   "url": "https://github.com/ErikKim/sonmat-unity/releases/download/v1.1.0/sonmat-unity-1.1.0.zip",
-   "sha256": "c7c49fec804e968d6603e15067f4088b36b684e364e07c0b7e3bcbeb1b780668",
+   "version": "1.2.0",
+   "url": "https://github.com/ErikKim/sonmat-unity/releases/download/v1.2.0/sonmat-unity-1.2.0.zip",
+   "sha256": "a22dbcc47a41767455f6f133f995053fe337095e76e7eb08dcf5d4eb12cb4d0e",
    "files": [
     "SonmatUnity.dll"
    ]
