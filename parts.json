@@ -15,27 +15,27 @@
   },
   "hook-wwise": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise",
-   "version": "1.0.2",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.2/sonmat-hook-wwise-1.0.2.zip",
-   "sha256": "5d9ad0192ce1a7ebeaaa6e521c0b21d131e5ffc187a74d3913af29718ff9d404",
+   "version": "1.0.3",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.3/sonmat-hook-wwise-1.0.3.zip",
+   "sha256": "0b9586ec15f18ce6bf4d97fdf259caac195e4537a369f368307b2672cad6e9f7",
    "files": [
     "dshaptics_wwise.dll"
    ]
   },
   "hook-wwise-wide": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise-wide",
-   "version": "1.0.2",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.2/sonmat-hook-wwise-wide-1.0.2.zip",
-   "sha256": "775a0fa1bfb591a082e46962a28ca43326386946e8589088970cdc25641c2226",
+   "version": "1.0.3",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.3/sonmat-hook-wwise-wide-1.0.3.zip",
+   "sha256": "6b0cb9fc0692b5e68932715656b31046baf543be80e73edf20137efeb4658915",
    "files": [
     "dshaptics_wwise_wide.dll"
    ]
   },
   "hook-ue4": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue4",
-   "version": "1.0.2",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.2/sonmat-hook-ue4-1.0.2.zip",
-   "sha256": "0408360d392c4a3dee69c777ef095825877bb9d6787ebaac8eb29a6f43a8478a",
+   "version": "1.0.3",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.3/sonmat-hook-ue4-1.0.3.zip",
+   "sha256": "7350bfd7738249848f8ce0cfcd0847bb86178ce31fac6faf6720089c70318a6b",
    "files": [
     "dshaptics_ue4.dll"
    ]
@@ -51,9 +51,9 @@
   },
   "hook-ue3": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue3",
-   "version": "1.0.1",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.1/sonmat-hook-ue3-1.0.1.zip",
-   "sha256": "02239ecc4e1b474a1a667ed9512a62453ca1f233c591f8a2998a33a860da5e8d",
+   "version": "1.0.2",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.2/sonmat-hook-ue3-1.0.2.zip",
+   "sha256": "a13351357410c3ba62cf1718aedc8f4058ad96c1e8a00591c25a921ecc88cb5c",
    "files": [
     "dshaptics_ue3_x86.dll"
    ]
