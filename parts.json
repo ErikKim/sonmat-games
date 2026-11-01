@@ -4,9 +4,9 @@
  "parts": {
   "loader": {
    "repo": "https://github.com/ErikKim/sonmat-loader",
-   "version": "1.2.0",
-   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.2.0/sonmat-loader-1.2.0.zip",
-   "sha256": "e3769de9e6b60d67e05d22879f21363c53093476d9b6df243df8d1db32abf736",
+   "version": "1.2.1",
+   "url": "https://github.com/ErikKim/sonmat-loader/releases/download/v1.2.1/sonmat-loader-1.2.1.zip",
+   "sha256": "f8145a2cc9027f60118afb666f349a1bde9ac28c20a9bba264589ba5629a00f7",
    "files": [
     "dshaptics_loader.dll",
     "dshaptics_loader_dinput8.dll",
