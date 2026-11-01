@@ -15,45 +15,45 @@
   },
   "hook-wwise": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise",
-   "version": "1.0.3",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.3/sonmat-hook-wwise-1.0.3.zip",
-   "sha256": "0b9586ec15f18ce6bf4d97fdf259caac195e4537a369f368307b2672cad6e9f7",
+   "version": "1.0.4",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise/releases/download/v1.0.4/sonmat-hook-wwise-1.0.4.zip",
+   "sha256": "7f1f5402d7d0e0497aac16ba7e6a8f5e1f6504e6791ba288f048ba1cd1b0fca9",
    "files": [
     "dshaptics_wwise.dll"
    ]
   },
   "hook-wwise-wide": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise-wide",
-   "version": "1.0.3",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.3/sonmat-hook-wwise-wide-1.0.3.zip",
-   "sha256": "6b0cb9fc0692b5e68932715656b31046baf543be80e73edf20137efeb4658915",
+   "version": "1.0.4",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.0.4/sonmat-hook-wwise-wide-1.0.4.zip",
+   "sha256": "bd5bdfa9bbf56587b702fb8b596e78cd3967c4aba12cdc82014f3628c8631374",
    "files": [
     "dshaptics_wwise_wide.dll"
    ]
   },
   "hook-ue4": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue4",
-   "version": "1.0.3",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.3/sonmat-hook-ue4-1.0.3.zip",
-   "sha256": "7350bfd7738249848f8ce0cfcd0847bb86178ce31fac6faf6720089c70318a6b",
+   "version": "1.0.4",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue4/releases/download/v1.0.4/sonmat-hook-ue4-1.0.4.zip",
+   "sha256": "a045f81f1599555d140185e4ea20bf03e937750d235bfaa26ac87e9bac794d1c",
    "files": [
     "dshaptics_ue4.dll"
    ]
   },
   "hook-fmodex": {
    "repo": "https://github.com/ErikKim/sonmat-hook-fmodex",
-   "version": "1.0.2",
-   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.2/sonmat-hook-fmodex-1.0.2.zip",
-   "sha256": "ad98f748390c23fcd7dbab8a1193946a25ae125c80a620026b9bc29d66bedff6",
+   "version": "1.0.3",
+   "url": "https://github.com/ErikKim/sonmat-hook-fmodex/releases/download/v1.0.3/sonmat-hook-fmodex-1.0.3.zip",
+   "sha256": "7685a983e211eebbb7d59e6071819dbe5047e89a6a8e05e82d789f718d4447a6",
    "files": [
     "dshaptics_fmodex.dll"
    ]
   },
   "hook-ue3": {
    "repo": "https://github.com/ErikKim/sonmat-hook-ue3",
-   "version": "1.0.2",
-   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.2/sonmat-hook-ue3-1.0.2.zip",
-   "sha256": "a13351357410c3ba62cf1718aedc8f4058ad96c1e8a00591c25a921ecc88cb5c",
+   "version": "1.0.3",
+   "url": "https://github.com/ErikKim/sonmat-hook-ue3/releases/download/v1.0.3/sonmat-hook-ue3-1.0.3.zip",
+   "sha256": "37af6a821140e75dc47d2075dc431caccd17babd0d8d21393c5d5230780a2e49",
    "files": [
     "dshaptics_ue3_x86.dll"
    ]
