@@ -10,7 +10,7 @@
    "engine": "ue3",
    "repo": "https://github.com/ErikKim/sonmat-game-asylum",
    "version": "0.1.0",
-   "commit": "8901c96879455cca1e6bd91253981a243208f69e"
+   "commit": "ec6bb8bce364e762b70a4eeb2977631c5166bcc2"
   },
   {
    "id": "dino",
@@ -46,7 +46,7 @@
    "engine": "ue4",
    "repo": "https://github.com/ErikKim/sonmat-game-liesofp",
    "version": "0.1.0",
-   "commit": "3c2eee6b928ac31539bb0d0c1652521d3b388420"
+   "commit": "080dcbb264439a9f8c32addda17ed3dd12142ba1"
   },
   {
    "id": "nier",
@@ -56,7 +56,7 @@
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-nier",
    "version": "0.1.0",
-   "commit": "41ad795cb88667a98f4b478174ffb25785fc847d"
+   "commit": "4b6ee328e65340a5e2c7fbad486c7974e4fdb4d8"
   },
   {
    "id": "sekiro",
@@ -76,7 +76,7 @@
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
    "version": "0.1.0",
-   "commit": "0170704ba55597da02200c874ede8986bdb3e8ec"
+   "commit": "f942dd676a722d1f4da2524774416607c43b5a6a"
   }
  ]
 }
