@@ -46,7 +46,7 @@
    "engine": "ue4",
    "repo": "https://github.com/ErikKim/sonmat-game-liesofp",
    "version": "0.1.0",
-   "commit": "28847967d7f0c5080647cfa7c0538c920b1f1bdb"
+   "commit": "c9bfcc6ca3b18ae9eeac494402343f66222bc922"
   },
   {
    "id": "nier",
@@ -76,7 +76,7 @@
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
    "version": "0.1.0",
-   "commit": "fc807abbd78a4985db46a654992825acb510f025"
+   "commit": "4b77b8ab6bc21e60e4d8c677629b8fa9a36d15aa"
   }
  ]
 }
