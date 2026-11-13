@@ -75,8 +75,8 @@
    "exe": "b1-Win64-Shipping.exe",
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
-   "version": "0.1.0",
-   "commit": "4b77b8ab6bc21e60e4d8c677629b8fa9a36d15aa"
+   "version": "0.1.1",
+   "commit": "2ea831f4218e6c8c54185e9a65ba4f727926fd31"
   }
  ]
 }
