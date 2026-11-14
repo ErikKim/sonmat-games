@@ -55,8 +55,8 @@
    "exe": "NieRAutomata.exe",
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-nier",
-   "version": "0.1.0",
-   "commit": "0a30894cd05d31bd0c3764339a1c53c90e43d41e"
+   "version": "0.1.1",
+   "commit": "f6d63657f769bd50541132fc9893ea8236d0a839"
   },
   {
    "id": "sekiro",
@@ -75,8 +75,8 @@
    "exe": "b1-Win64-Shipping.exe",
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
-   "version": "0.1.1",
-   "commit": "2ea831f4218e6c8c54185e9a65ba4f727926fd31"
+   "version": "0.1.2",
+   "commit": "29f20985b6385c0a3fb2611037041b9acb769323"
   },
   {
    "id": "pbz",

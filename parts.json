@@ -26,9 +26,9 @@
   },
   "hook-wwise-wide": {
    "repo": "https://github.com/ErikKim/sonmat-hook-wwise-wide",
-   "version": "1.1.0",
-   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.1.0/sonmat-hook-wwise-wide-1.1.0.zip",
-   "sha256": "d520e3e7fd804b0aaf926d3cd5edb462048f8dff04d96261f71bd76058b6d0bb",
+   "version": "1.2.0",
+   "url": "https://github.com/ErikKim/sonmat-hook-wwise-wide/releases/download/v1.2.0/sonmat-hook-wwise-wide-1.2.0.zip",
+   "sha256": "a7f29733f2990232d8372ad1ef97a09419a6f9afa7533df77659080dbc0c924e",
    "files": [
     "dshaptics_wwise_wide.dll"
    ]
