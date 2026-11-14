@@ -77,6 +77,16 @@
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
    "version": "0.1.1",
    "commit": "2ea831f4218e6c8c54185e9a65ba4f727926fd31"
+  },
+  {
+   "id": "pbz",
+   "name": "Phantom Blade Zero",
+   "name_ko": "팬텀 블레이드 제로",
+   "exe": "PBZ.exe",
+   "engine": "wwise",
+   "repo": "https://github.com/ErikKim/sonmat-game-pbz",
+   "version": "0.1.0",
+   "commit": "2b6beb9794e149bc16b8c7739e0146e888704cdb"
   }
  ]
 }
