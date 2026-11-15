@@ -75,8 +75,8 @@
    "exe": "b1-Win64-Shipping.exe",
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-wukong",
-   "version": "0.1.2",
-   "commit": "29f20985b6385c0a3fb2611037041b9acb769323"
+   "version": "0.1.3",
+   "commit": "1a03c2d31f6538d25cb053bd1dda8008e780cc4b"
   },
   {
    "id": "pbz",
@@ -85,8 +85,8 @@
    "exe": "PBZ.exe",
    "engine": "wwise",
    "repo": "https://github.com/ErikKim/sonmat-game-pbz",
-   "version": "0.1.0",
-   "commit": "2b6beb9794e149bc16b8c7739e0146e888704cdb"
+   "version": "0.1.1",
+   "commit": "ee5fc4ed9dc9a30f2ab5746d619d3af94020d2e3"
   }
  ]
 }
